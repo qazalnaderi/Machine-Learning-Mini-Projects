@@ -6,13 +6,19 @@ This repository contains a collection of mini machine learning projects built fo
 ## 📁 Project List
 
 ## 🏠 Linear Regression - Boston Housing
+
 Description: Predicts housing prices in Boston using multiple linear regression.
+
 Dataset: BostonHousing.csv
 
 ## 📧 Logistic Regression - Spam Detection
+
 Description: Classifies emails as spam or not spam using logistic regression.
+
 Dataset: spambase.csv
 
 ## 👥 K-Means Clustering - Customer Segmentation
+
 Description: Segments wholesale customers based on purchasing behavior using K-Means clustering.
+
 Dataset: Wholesale customers data.csv
